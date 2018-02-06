@@ -1,2 +1,2 @@
 # calculetor-lex-code
-this is simple lec code
+this is simple lex code
